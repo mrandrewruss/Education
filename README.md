@@ -1,1 +1,1 @@
-# 🐶 **Pet projects** for `work` 🔧 and `education`
+# 🐶 **Pet projects** for `work` and `education`
