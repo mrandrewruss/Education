@@ -1,10 +1,11 @@
 # 🐶 **Pet projects** for `work` and `education`:
 
 ### [QA Templates:](https://github.com/mrandrewruss/petprojects/tree/main/QA)
-* checklists
-* bug reports
-* test cases
-* test protocol
+* Checklists
+* Bug reports
+* Test cases
+* Test protocol
 
 ### [QA Autotests:](https://github.com/mrandrewruss/petprojects/tree/main/portfolio)
-* ui autotests[JavaScript]
+* UI autotests [JavaScript]
+* API autotests [Python]
