@@ -1,6 +1,6 @@
 # 🐶 **Pet projects** for `work` and `education`:
 
-— Qa_templates:
+[**Qa templates:**](https://github.com/mrandrewruss/petprojects/tree/main/QA)
   checklists
   bug reports
   test cases
