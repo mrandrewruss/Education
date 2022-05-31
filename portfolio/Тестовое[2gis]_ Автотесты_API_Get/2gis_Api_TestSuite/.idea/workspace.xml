@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="943e26a4-60e9-455d-b5ae-2e66798161c5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1xJnkmRlkhtDkOtnmymS6PWe7EK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="PyScientificConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in TestsGet.py">
+    <configuration name="pytest for TestsGet.TestsGetRegions.test_page_size_minus_100" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="2gisApiTestSuite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TestsGet.TestsGetRegions.test_page_size_minus_100&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for TestsGet.TestsGetRegions.test_page_size_null" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="2gisApiTestSuite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TestsGet.TestsGetRegions.test_page_size_null&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for TestsGet.TestsGetRegions.test_region_status_code_is_200" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="2gisApiTestSuite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TestsGet.TestsGetRegions.test_region_status_code_is_200&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for TestsGet.TestsGetRegions.test_wrong_http" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="2gisApiTestSuite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TestsGet.TestsGetRegions.test_wrong_http&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in TestsGet.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="2gisApiTestSuite" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Tests/TestsGet.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in TestsGet.py" />
+        <item itemvalue="Python tests.pytest for TestsGet.TestsGetRegions.test_wrong_http" />
+        <item itemvalue="Python tests.pytest for TestsGet.TestsGetRegions.test_region_status_code_is_200" />
+        <item itemvalue="Python tests.pytest for TestsGet.TestsGetRegions.test_page_size_null" />
+        <item itemvalue="Python tests.pytest for TestsGet.TestsGetRegions.test_page_size_minus_100" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="943e26a4-60e9-455d-b5ae-2e66798161c5" name="Default Changelist" comment="" />
+      <created>1630082204352</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630082204352</updated>
+      <workItem from="1630082215063" duration="27000" />
+      <workItem from="1630082297245" duration="1293000" />
+      <workItem from="1630089503616" duration="1186000" />
+      <workItem from="1630091179962" duration="851000" />
+      <workItem from="1630093208276" duration="169000" />
+      <workItem from="1630093992471" duration="8875000" />
+      <workItem from="1630131867925" duration="1491000" />
+      <workItem from="1630133937215" duration="5411000" />
+      <workItem from="1630143691155" duration="5308000" />
+      <workItem from="1630149530756" duration="8027000" />
+      <workItem from="1630165053083" duration="3283000" />
+      <workItem from="1630260539098" duration="3800000" />
+      <workItem from="1630300364988" duration="20069000" />
+      <workItem from="1630321005286" duration="194000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_total_count_2.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_total_count_2 Coverage Results" MODIFIED="1630148827474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_search_page_number_empty.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_search_page_number_empty Coverage Results" MODIFIED="1630318659289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_wrong_data_in_response.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_wrong_data_in_response Coverage Results" MODIFIED="1630315079324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_Get_regions_testTotal.coverage" NAME="pytest for TestsGet.Get_regions.testTotal Coverage Results" MODIFIED="1630141151485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_search_name_region_empty.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_search_name_region_empty Coverage Results" MODIFIED="1630317187835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_page_size_null.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_page_size_null Coverage Results" MODIFIED="1630319857953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_search_page_number_1.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_search_page_number_1 Coverage Results" MODIFIED="1630317765457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_search_name_region_4_letters.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_search_name_region_4_letters Coverage Results" MODIFIED="1630305546241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_wrong_http.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_wrong_http Coverage Results" MODIFIED="1630320113903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_in_TestsGet_py.coverage" NAME="pytest in TestsGet.py Coverage Results" MODIFIED="1630321117870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_q_search21.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_q_search21 Coverage Results" MODIFIED="1630312855575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_gregion_status_code_is_200.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_gregion_status_code_is_200 Coverage Results" MODIFIED="1630300410282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_country_code_filter_cz.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_country_code_filter_cz Coverage Results" MODIFIED="1630316798956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_page_size_14.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_page_size_14 Coverage Results" MODIFIED="1630319655237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_search_name_region_eng_lang.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_search_name_region_eng_lang Coverage Results" MODIFIED="1630262726422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_search_name_region_space_left.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_search_name_region_space_left Coverage Results" MODIFIED="1630306940658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_q_search1.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_q_search1 Coverage Results" MODIFIED="1630309556481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_country_code_filter_kg.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_country_code_filter_kg Coverage Results" MODIFIED="1630316852921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_restriction_objects_on_page_5.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_restriction_objects_on_page_5 Coverage Results" MODIFIED="1630319208437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsZapaska_Get_regions.coverage" NAME="pytest for TestsZapaska.Get_regions Coverage Results" MODIFIED="1630131947326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_search_name_region_3_letters.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_search_name_region_3_letters Coverage Results" MODIFIED="1630316043970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_region_count_on_page.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_region_count_on_page Coverage Results" MODIFIED="1630317397225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_test_total_count.coverage" NAME="pytest for TestsGet.test_total_count Coverage Results" MODIFIED="1630155834233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_country_code.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_country_code Coverage Results" MODIFIED="1630303391681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_search_name_region_space_right.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_search_name_region_space_right Coverage Results" MODIFIED="1630307106633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_test_total_count_2.coverage" NAME="pytest for TestsGet.test_total_count_2 Coverage Results" MODIFIED="1630148572314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsZapaska_Get_regions2.coverage" NAME="pytest for TestsZapaska.Get_regions2 Coverage Results" MODIFIED="1630102665807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_in_ApiTestGet__py.coverage" NAME="pytest in ApiTestGet_.py Coverage Results" MODIFIED="1630099373846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_search_page_number_null.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_search_page_number_null Coverage Results" MODIFIED="1630318758505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_in_TestsZapaska_py.coverage" NAME="pytest in TestsZapaska.py Coverage Results" MODIFIED="1630102545235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_1.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_1 Coverage Results" MODIFIED="1630161593509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_search_name_region_.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_search_name_region_ Coverage Results" MODIFIED="1630316159580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_total_count.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_total_count Coverage Results" MODIFIED="1630305040848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_search_name_region_w.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_search_name_region_w Coverage Results" MODIFIED="1630307736721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_page_size_9.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_page_size_9 Coverage Results" MODIFIED="1630319689644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_status_code_is_200.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_status_code_is_200 Coverage Results" MODIFIED="1630261856519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_search_name_region.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_search_name_region Coverage Results" MODIFIED="1630303014774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_count_on_page.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_count_on_page Coverage Results" MODIFIED="1630301903720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_country_code_kg.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_country_code_kg Coverage Results" MODIFIED="1630312788689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_page_size_16.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_page_size_16 Coverage Results" MODIFIED="1630319604726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsZapaska_Get_regions_testGetStatusCode200.coverage" NAME="pytest for TestsZapaska.Get_regions.testGetStatusCode200 Coverage Results" MODIFIED="1630100799202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_search_page_number_2.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_search_page_number_2 Coverage Results" MODIFIED="1630318142161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_restriction_objects_on_page_10.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_restriction_objects_on_page_10 Coverage Results" MODIFIED="1630319109425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_ApiTestGet111_ApiTestGet_regions_test_status_code.coverage" NAME="pytest for ApiTestGetStatusCode.ApiTestGet_regions.test_status_code Coverage Results" MODIFIED="1630096379387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions.coverage" NAME="pytest for TestsGet.TestsGetRegions Coverage Results" MODIFIED="1630162554994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_search_name_region_with_country_code.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_search_name_region_with_country_code Coverage Results" MODIFIED="1630317061437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_country_code_cz.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_country_code_cz Coverage Results" MODIFIED="1630313491365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_ApiTestGet_ApiTestGet_regions_test_get.coverage" NAME="pytest for ApiTestGet111.ApiTestGet_regions.test_get Coverage Results" MODIFIED="1630096162271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_search_name_region_with_space.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_search_name_region_with_space Coverage Results" MODIFIED="1630307205866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_ApiTestGetStatusCode_Get_regions.coverage" NAME="pytest for TestsZapaska.Get_regions Coverage Results" MODIFIED="1630103057352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_name_region_status_code_is_200.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_name_region_status_code_is_200 Coverage Results" MODIFIED="1630305398715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_restriction_objects_on_page_16.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_restriction_objects_on_page_16 Coverage Results" MODIFIED="1630319455337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_search_name_region_with_hyphen.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_search_name_region_with_hyphen Coverage Results" MODIFIED="1630307687051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_total_equal_count.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_total_equal_count Coverage Results" MODIFIED="1630147080514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_status_code_is_200_q.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_status_code_is_200_q Coverage Results" MODIFIED="1630155802262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_ApiTestGet__test_total_count.coverage" NAME="pytest for ApiTestGet_.test_total_count Coverage Results" MODIFIED="1630097090816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_search_name_region_2_letters.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_search_name_region_2_letters Coverage Results" MODIFIED="1630306473076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_search_page_number_0.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_search_page_number_0 Coverage Results" MODIFIED="1630317978464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_page_size_11.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_page_size_11 Coverage Results" MODIFIED="1630319672708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_country_code_1.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_country_code_1 Coverage Results" MODIFIED="1630304309167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_search_name_wrongregion.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_search_name_wrongregion Coverage Results" MODIFIED="1630262322134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_country_code_filter_ru.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_country_code_filter_ru Coverage Results" MODIFIED="1630316551073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_country_code_ru.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_country_code_ru Coverage Results" MODIFIED="1630315362408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_region_without_filter_country_code.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_region_without_filter_country_code Coverage Results" MODIFIED="1630315739172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_page_size_4.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_page_size_4 Coverage Results" MODIFIED="1630319718462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_search_name_region_3_uppercase_letters.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_search_name_region_3_uppercase_letters Coverage Results" MODIFIED="1630305623752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_page_size_minus_100.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_page_size_minus_100 Coverage Results" MODIFIED="1630319787019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_Get_regions_testCode.coverage" NAME="pytest for TestsGet.Get_regions.testCode Coverage Results" MODIFIED="1630138254270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_region_status_code_is_200.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_region_status_code_is_200 Coverage Results" MODIFIED="1630319971770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$ApiTestGet.coverage" NAME="ApiTestGet_0 Coverage Results" MODIFIED="1630097258992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_search_page_number_minus_1234.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_search_page_number_minus_1234 Coverage Results" MODIFIED="1630318111761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_country_code_status_code_is_200.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_country_code_status_code_is_200 Coverage Results" MODIFIED="1630316391996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_restriction_objects_on_page_15.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_restriction_objects_on_page_15 Coverage Results" MODIFIED="1630319075704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_GetRegions_test_total_count.coverage" NAME="pytest for TestsGet.GetRegions.test_total_count Coverage Results" MODIFIED="1630141367957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/2gisApiTestSuite$pytest_for_TestsGet_TestsGetRegions_test_country_code_2.coverage" NAME="pytest for TestsGet.TestsGetRegions.test_country_code_2 Coverage Results" MODIFIED="1630308792607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+  </component>
+</project>
