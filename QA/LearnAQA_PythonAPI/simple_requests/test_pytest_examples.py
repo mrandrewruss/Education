@@ -11,4 +11,4 @@ class TestExample:
         expected_sum = 14
         assert a+b == expected_sum, f"Sum of variables a and b is not equal to {expected_sum}"
 
-# python3 -m pytest pytest_examples.py -k test_check_math
+# python3 -m pytest pytest_test_examples.py -k test_check_math
