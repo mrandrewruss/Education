@@ -1,4 +1,9 @@
-# (пакеты из файла requirements)
-pip3 install -r requirements.txt
+
+
+
+`pip3 install -r requirements.txt` -> _пакеты из файла requirements_
+
+---
+
 
 
