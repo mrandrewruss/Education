@@ -7,5 +7,5 @@
 * Test protocol
 
 ### [QA Autotests:](https://github.com/mrandrewruss/petprojects/tree/main/portfolio)
-* UI autotests [JavaScript]
+* UI autotests 
 * API autotests [Python]
