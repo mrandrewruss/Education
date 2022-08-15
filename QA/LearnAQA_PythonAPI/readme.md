@@ -28,7 +28,7 @@
   - [x] Replacing Methods
   - [x] Logging
   - [x] Allure (add: @allure.epic + @allure.description + with allure.step("abc"))
-  - [ ] Environment
+  - [x] Environment
   - [ ] Running Tests in Docker
 
 
