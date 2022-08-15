@@ -4,14 +4,14 @@ import os
 class Environment:
     DEV = "dev"
     PROD = "prod"
-    # env = os.environ['ENV']
+    env = None
 
     URLS = {
         DEV: "https://playground.learnqa.ru/ajax/api_dev",
         PROD: "https://playground.learnqa.ru/ajax/api"
     }
 
-    def __int__(self):
+    def __init__(self):
         try:
             self.env = os.environ['ENV']
         except KeyError:
