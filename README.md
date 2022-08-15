@@ -8,4 +8,4 @@
 
 ### [QA Autotests:](https://github.com/mrandrewruss/petprojects/tree/main/portfolio)
 * UI autotests 
-* API autotests [Python](https://github.com/mrandrewruss/petprojects/tree/main/QA/LearnAQA_PythonAPI)
+* API autotests [Python automation testing framework](https://github.com/mrandrewruss/petprojects/tree/main/QA/LearnAQA_PythonAPI)
